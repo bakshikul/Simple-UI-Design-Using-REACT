@@ -39,7 +39,7 @@ It is designed as a frontend-only implementation and can easily be integrated wi
 <h2>🚀Installation :</h2>
 <ol>
   <li>Clone the repository : https://github.com/bakshikul/Simple-UI-Design-Using-REACT.git</li>
-  <li>Navigate to the project directory :UI_Mini_Project</li>
+  <li>Navigate to the project directory : cd UI_Mini_Project</li>
   <li>Install dependencies :npm install</li>
 </ol>
 <h2>🚀Running the Project</h2>
